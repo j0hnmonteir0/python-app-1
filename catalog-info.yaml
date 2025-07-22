@@ -4,7 +4,7 @@ metadata:
   name: python-app-1
   description: Python app that display time - name python-app-1
   annotations:
-    github.com/project-slug: JohnMonteir0/python-app-1
+    github.com/project-slug: j0hnmonteir0/python-app-1
     backstage.io/techdocs-ref: dir:.
 spec:
   type: service
