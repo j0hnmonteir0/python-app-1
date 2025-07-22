@@ -6,7 +6,8 @@ metadata:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
   rules:
-  - http:
+  - host: python-app-1-dev.654654498256.realhandsonlabs.net
+    http:
       paths:
       - path: /
         pathType: Prefix
